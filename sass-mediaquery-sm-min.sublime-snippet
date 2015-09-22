@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[@media (min-width: \$screen-sm-min) {
+  ${1}
+}]]></content>
+  <tabTrigger>mqsm</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+</snippet>
