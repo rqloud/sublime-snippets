@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[@media (min-width: \$screen-${1}-min) {
+  ${2}
+}]]></content>
+  <tabTrigger>mq-bs</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+</snippet>

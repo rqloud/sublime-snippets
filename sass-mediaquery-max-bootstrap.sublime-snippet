@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[@media (max-width: \$screen-${1}-max) {
+  ${2}
+}]]></content>
+  <tabTrigger>mq-max-bs</tabTrigger>
+  <scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-  <content><![CDATA[@media (max-width: 479px {
-  ${1}
-}]]></content>
-  <tabTrigger>mqxxs-max</tabTrigger>
-  <scope>source.scss, source.sass</scope>
-</snippet>
